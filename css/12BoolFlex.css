@@ -265,7 +265,14 @@
 .p-3{
    padding: 30px;
 }
+.mb-1
+{
+   margin-bottom: 10px;
+}
 
 .bg-active{
    background-color: green;
+}
+.bg-unactive{
+   background-color: red;
 }
