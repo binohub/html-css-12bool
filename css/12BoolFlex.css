@@ -257,6 +257,10 @@
    justify-content: center;
    text-align: center;
 }
+.end {
+   justify-content: flex-end;
+   text-align: center;
+}
 
 
 .p-1{
