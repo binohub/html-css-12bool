@@ -5,9 +5,11 @@ body{
    color: white;
    border: 1px solid white;
    padding: 10px;
-   background-color: dodgerblue;
+
 }
+
+
 .row{
-   /* background-color: dodgerblue; */
+   background-color: dodgerblue;
    /* border: 1px solid white; */
 }
